@@ -1,0 +1,19 @@
+.hovered-squares {
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.hovered-squares__list {
+    height: 400px;
+    overflow-y: auto;
+    list-style: none;
+    width: 100%;
+}
+
+.hovered-squares__item {
+    padding: 12px 8px;
+    border-radius: 8px;
+    background-color: #fbf8e1;
+    color: #c0ae00;
+    margin-top: 5px;
+}
