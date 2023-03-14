@@ -1,8 +1,8 @@
 .main {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .loading {
-    margin-left: 10px;
+  margin-left: 10px;
 }

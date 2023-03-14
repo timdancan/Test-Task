@@ -1,9 +1,9 @@
 .square {
-    width: 50px;
-    height: 50px;
-    border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
 }
 
 .square--blue {
-    background-color: #4560ff;
+  background-color: #4560ff;
 }
